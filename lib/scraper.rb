@@ -20,6 +20,7 @@ class Scraper
     doc = Nokogiri::HTML(open(url))
   end
   
+  
 end
 
 
